@@ -26,8 +26,6 @@
 	<string>MainWindow</string>
 	<key>NSMainNibFile~ipad</key>
 	<string>MainWindow-iPad</string>
-	<key>NSPhotoLibraryUsageDescription</key>
-	<string>To save screenshots</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<dict>
 		<key>opengles-1</key>
@@ -50,5 +48,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>To save screenshots</string>
 </dict>
 </plist>
